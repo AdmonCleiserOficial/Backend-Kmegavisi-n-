@@ -1,0 +1,20 @@
+{
+  "name": "megavisionback",
+  "version": "1.0.0",
+  "description": "aqui llegaran los datos del formulario ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdmonCleiserOficial/Backend-Kmegavisi-n-.git"
+  },
+  "author": "Cleiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdmonCleiserOficial/Backend-Kmegavisi-n-/issues"
+  },
+  "homepage": "https://github.com/AdmonCleiserOficial/Backend-Kmegavisi-n-#readme"
+}
